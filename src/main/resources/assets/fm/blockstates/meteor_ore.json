@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fm:block/meteor_ore"
+    }
+  }
+}
